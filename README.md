@@ -56,7 +56,7 @@
             <a href="mailto:guilherme.silva@aluno.ifce.edu.br">
                 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail - Envie um e-mail para Victor">
             </a>
-            <a href="https://www.instagram.com/@gl.7x" target="_blank">
+            <a href="https://www.instagram.com/gl.7x" target="_blank">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - Me siga no Instagram">
             </a>
         </div>
