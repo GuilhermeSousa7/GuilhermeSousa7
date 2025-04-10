@@ -10,8 +10,8 @@
             
 <body>
     <section>
-        <h1>👋🏼 Olá, seja bem vindo! Me chamo Guilherme, mais conhecido como GL. </h1>
-        <p>Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong>Técnico em Informática </strong> 👨🏽‍💻. Gosto de assistir filmes, séries e ouvir músicas. Também gosto de comer bastante cuscuz principalmente com carne. E no futuro pretendo ser design gráfico </p>
+        <h1>👋🏼 Salve, seja bem vindo por aqui! </h1>
+        <p> Me chamo <strong> Guilherme </strong> mais conhecido como <strong> GL! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong>Técnico em Informática </strong> 👨🏽‍💻. Gosto de assistir filmes, séries e ouvir músicas.E no futuro pretendo ser design gráfico </p>
 
     
 
