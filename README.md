@@ -11,7 +11,7 @@
 <body>
     <section>
         <h1>👋 Olá, seja bem vindo!. Me chamo Guilherme, mais conhecido como GL. </h1>
-        <p>Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong>Técnico em Informática </strong> 👨‍💻. Gosto de assistir filmes, séries e ouvir músicas. Também gosto de comer bastante cuscuz< principalmente com carne. E no futuro pretendo ser design gráfico1</p>
+        <p>Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong>Técnico em Informática </strong> 👨‍💻. Gosto de assistir filmes, séries e ouvir músicas. Também gosto de comer bastante cuscuz principalmente com carne. E no futuro pretendo ser design gráfico</p>
 
     
 
@@ -50,7 +50,7 @@
 
   <h2>📬 Contatos</h2>
         <div class="social-links">
-            <a href="https://github.com/zezim17" target="_blank">
+            <a href="https://github.com/GuilhermeSousa7" target="_blank">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Meu perfil no GitHub">
             </a>
             <a href="mailto:guilherme.silva@aluno.ifce.edu.br">
