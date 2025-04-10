@@ -17,8 +17,11 @@
 
 -🎵 Curto muito ouvir músicas, preferências em (trap, funk e sertanejo) e também gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
 - Café é meu combustível oficial. (No mínimo 7 xícaras ao dia)
+
 -💯 Adoro aventuras, tudo que envolva adrenalina eu estou dentro!
+
 -💤 Durmo bastante, principalmente no final de samana.
+
 - Sou um carinha meio complicado de lhe dar, mas quem me tem próximo, tem um amigo de verdade!😎🤙🏽
     
   <h2>🛠️ Tecnologias </h2>
