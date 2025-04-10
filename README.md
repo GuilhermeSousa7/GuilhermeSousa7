@@ -11,7 +11,7 @@
 <body>
     <section>
         <h1>👋🏼 Salve, seja bem vindo por aqui! </h1>
-        <p> Me chamo <strong> Guilherme </strong> mais conhecido como <strong> GL! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong>Técnico em Informática </strong> 👨🏽‍💻. Gosto de assistir filmes, séries e ouvir músicas.E no futuro pretendo ser design gráfico </p>
+        <p> Me chamo <strong> Guilherme </strong> mais conhecido como <strong> GL! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Gosto de assistir filmes, séries e ouvir músicas. E no futuro pretendo ser <strong> Designer Gráfico! </strong> </p>
 
     
 
