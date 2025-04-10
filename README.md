@@ -24,40 +24,28 @@
 -💤 Durmo bastante, principalmente nos finais de samana.
 
 -😅 Sou um carinha meio complicado de lhe dar, mas quem me tem próximo, tem um amigo de verdade!😎🤙🏽
-    
-  <h2>🛠️ Tecnologias </h2>
-        
-  <h3>Frontend</h3>
-        <ul style="list-style-type: none; padding: 0;">
-            <li>
-                <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 - Linguagem de marcação para construção de páginas web">
-            <li>
-                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 - Folhas de estilo para design de páginas web">
-            </li>
-            <li>
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript - Linguagem de programação para interação em páginas web">
-            </li>
-        </ul>
 
-  <h3>Backend</h3>
-        <ul style="list-style-type: none; padding: 0;">
-            <li>
-                <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python - Linguagem de programação para desenvolvimento de backend e scripts">
-            </li>
-            <li>
-                <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java - Linguagem de programação orientada a objetos para backend">
-            </li>
-        </ul>
+### Linguagens que uso e estou aprendendo:
 
-  <h2>📊 Estatísticas do GitHub</h2>
-        <p>Acompanhe minhas contribuições e atividades:</p>
-        <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSousa7&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 100%; max-width: 500px;">
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSousa7&theme=radical" alt="GitHub Streak Stats" style="width: 100%; max-width: 500px;">
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSousa7&layout=compact&theme=radical" alt="Linguagens mais usadas" style="width: 100%; max-width: 500px;">
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
-  <h2>📬 Contatos</h2>
+### Ferramentas que utilizo:
+
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Terminal](https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=gnubash)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+  <h2>📬 Se quiser trocar um papo comigo, só entrar em contato: </h2>
         <div class="social-links">
             <a href="https://github.com/gl7x" target="_blank">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Meu perfil no GitHub">
@@ -67,6 +55,8 @@
             </a>
             <a href="https://www.instagram.com/gl.7x" target="_blank">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - Me siga no Instagram">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/85981051866)
             </a>
         </div>
     </section>
