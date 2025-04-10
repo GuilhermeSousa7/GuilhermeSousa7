@@ -59,7 +59,7 @@
 
   <h2>📬 Contatos</h2>
         <div class="social-links">
-            <a href="https://github.com/GuilhermeSousa7" target="_blank">
+            <a href="https://github.com/gl7x" target="_blank">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Meu perfil no GitHub">
             </a>
             <a href="mailto:guilherme.silva@aluno.ifce.edu.br">
