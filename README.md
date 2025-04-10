@@ -11,19 +11,21 @@
 <body>
     <section>
         <h1>👋🏼 Salve, seja bem vindo por aqui! </h1>
-        <p> Me chamo <strong> Guilherme </strong> mais conhecido como <strong> GL </strong>! Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Lages </strong>! Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
+        <p> Me chamo <strong> Guilherme </strong> mais conhecido como <strong> GL </strong>! Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci no estado do <strong> Ceará </strong> em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Lages </strong>! Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
             
 ## Curiosidades sobre mim 😅
 
--🎵 Curto muito ouvir músicas, preferências em (trap, funk e sertanejo) e também gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
+•🎵 Curto muito ouvir músicas, preferências em (trap, funk e sertanejo) e também gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
 
--☕️ Café é meu combustível oficial. (No mínimo 7 xícaras ao dia)
+•☕️ Café é meu combustível oficial. (No mínimo 7 xícaras ao dia)
 
--💯 Adoro aventuras, tudo que envolva adrenalina eu estou dentro!
+•💯 Adoro aventuras, tudo que envolva adrenalina eu estou dentro!
 
--💤 Durmo bastante, principalmente nos finais de samana.
+•💤 Durmo bastante, principalmente nos finais de samana.
 
--😅 Sou um carinha meio complicado de lhe dar, mas se você fechar 10/10 comigo eu vou fechar 10/10 contigo!😎🤙🏽
+•🔄 Também sou muito bipolar! Um dia estou ligado no 220w e muito extrovertido,já no outro vou estar na maior bad possível sem querer falar com ninguém🙄.
+
+•😅 Sou um carinha meio complicado de lhe dar, mas se você fechar 10/10 comigo eu vou fechar 10/10 contigo!😎🤙🏽
 
 ### 📚 Linguagens que uso e estou aprendendo:
 
