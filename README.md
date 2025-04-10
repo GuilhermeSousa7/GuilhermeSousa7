@@ -1,4 +1,4 @@
-## Olá sou Guilherme Sousa 😎
+## Olá sou GL 😎
 
 <!DOCTYPE html>
 <html lang="pt-BR">
