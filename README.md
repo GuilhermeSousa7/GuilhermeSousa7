@@ -11,11 +11,16 @@
 <body>
     <section>
         <h1>👋🏼 Salve, seja bem vindo por aqui! </h1>
-        <p> Me chamo <strong> Guilherme </strong> mais conhecido como <strong> GL! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Gosto de assistir filmes, séries e ouvir músicas. E no futuro pretendo ser <strong> Designer Gráfico! </strong> </p>
+        <p> Me chamo <strong> Guilherme </strong> mais conhecido como <strong> GL! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Lages! </strong> Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
+            
+## Curiosidades sobre mim 😅
 
+-🎵 Curto muito ouvir músicas, preferências em (trap, funk e sertanejo) e também gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
+- Café é meu combustível oficial. (No mínimo 7 xícaras ao dia)
+-💯 Adoro aventuras, tudo que envolva adrenalina eu estou dentro!
+-💤 Durmo bastante, principalmente no final de samana.
+- Sou um carinha meio complicado de lhe dar, mas quem me tem próximo, tem um amigo de verdade!😎🤙🏽
     
-
-
   <h2>🛠️ Tecnologias </h2>
         
   <h3>Frontend</h3>
