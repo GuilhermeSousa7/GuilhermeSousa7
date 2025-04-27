@@ -64,7 +64,7 @@
 </body>
 
 ### Leia em outros Idiomas
-<kbd>[Inglês](README.md)</kbd> | <kbd>[Espanhol](README.md)</kbd> | <kbd>[Françês](README.md)</kbd>
+<kbd>[Inglês](README.us.md)</kbd> | <kbd>[Espanhol](README.es.md)</kbd> | <kbd>[Françês](README.fr.md)</kbd>
 
 ![Image](https://github.com/user-attachments/assets/babbb779-eead-4dac-8231-7b91b980373d)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
