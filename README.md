@@ -22,8 +22,6 @@
 
 •💤 Durmo bastante, principalmente nos finais de samana.
 
-•🔄 Também sou muito bipolar! Um dia estou ligado no 220w e muito extrovertido, já no outro vou estar na maior bad possível sem querer falar com ninguém🙄.
-
 •😅 Sou um carinha meio complicado de lhe dar, mas se você fechar 10/10 comigo eu vou fechar 10/10 contigo!😎🤙🏽
 
 ### 📚 Linguagens que uso e estou aprendendo:
