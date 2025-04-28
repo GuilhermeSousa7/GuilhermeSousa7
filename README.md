@@ -16,6 +16,8 @@
 
 •🎵 Curto muito ouvir músicas, preferências em (trap, funk e sertanejo) e também gosto muito de filmes e séries principalmente de terror e ação 🧟‍♂️🤸🏽‍♂️.
 
+•🎮 Gosto de jogar jogos FPS e de Aventura!
+
 •☕️ Café é meu combustível oficial. (No mínimo 7 xícaras ao dia)
 
 •💯 Adoro aventuras, tudo que envolva adrenalina eu estou dentro!
