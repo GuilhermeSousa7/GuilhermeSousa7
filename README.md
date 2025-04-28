@@ -9,8 +9,8 @@
             
 <body>
     <section>
-        <h1>👋🏼 Salve, tropinha! Sejam bem vindos. </h1>
-        <p> Me chamo <strong> Guilherme </strong> mais conhecido como <strong> GL </strong>! Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci no estado do <strong> Ceará </strong> em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Lages </strong>! Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
+        <h1>👋🏼 Salve, salve. Sejam bem vindos! </h1>
+        <p> Me chamo <strong> Guilherme </strong>, mais conhecido como <strong> GL </strong>! Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci no estado do <strong> Ceará </strong> em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Lages </strong>! Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
             
 ## Curiosidades sobre mim 😅
 
