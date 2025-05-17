@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b400ff&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header"/>
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -64,4 +64,4 @@
 </body>
 
 ![Image](https://github.com/user-attachments/assets/babbb779-eead-4dac-8231-7b91b980373d)
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b400ff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
